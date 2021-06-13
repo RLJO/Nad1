@@ -1,0 +1,4 @@
+[submodule "RLJO/RagsonsKenyaLtd"]
+	path = RLJO/RagsonsKenyaLtd
+	url = git@github.com:RLJO/RagsonsKenyaLtd.git
+	branch = Staging-RKL
